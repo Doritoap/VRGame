@@ -11,3 +11,6 @@ Por el mapa también hay distintas objetos con los que puedes probar las fisicas
 
 En unreal se ha usado el GameMode: GameModeBase para los controles y visión de VR. 
 Por otra parte, el GameMode: BP_FirstPersonGameMode ha sido desarrollado para probar el juego en el ordenador y grabar el gameplay. Hay un arma flotante que solo es compatible con este modo.
+
+EL video se encuentra en la carpeta raiz y se llama Gameplay.mp4
+La Apk se encuentra en: https://drive.google.com/drive/folders/1t9VG--D1E55v2HinlW2spiffV9-x94PG?usp=sharing
